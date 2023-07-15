@@ -1,2 +1,4 @@
-# Snake_game_javaScript
+# Snake game built in javaScript
+
+
  
